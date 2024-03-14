@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "Jirn2rBn8540jlCU3SPsWJ49GZ/f0E4MKKpHa17W/tA=",
+  "Source": "WeatherSolution",
+  "BasePath": "_content/WeatherSolution",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WeatherSolution\\wwwroot",
+      "Source": "WeatherSolution",
+      "ContentRoot": "C:\\aspnetcore\\WeatherSolution\\WeatherSolution\\wwwroot\\",
+      "BasePath": "_content/WeatherSolution",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\aspnetcore\\WeatherSolution\\WeatherSolution\\wwwroot\\StyleSheet.css",
+      "SourceId": "WeatherSolution",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\aspnetcore\\WeatherSolution\\WeatherSolution\\wwwroot\\",
+      "BasePath": "_content/WeatherSolution",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}

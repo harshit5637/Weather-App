@@ -1,0 +1,11 @@
+C:\aspnetcore\WeatherSolution\Models\bin\Debug\net6.0\Models.deps.json
+C:\aspnetcore\WeatherSolution\Models\bin\Debug\net6.0\Models.dll
+C:\aspnetcore\WeatherSolution\Models\bin\Debug\net6.0\Models.pdb
+C:\aspnetcore\WeatherSolution\Models\obj\Debug\net6.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\aspnetcore\WeatherSolution\Models\obj\Debug\net6.0\Models.AssemblyInfoInputs.cache
+C:\aspnetcore\WeatherSolution\Models\obj\Debug\net6.0\Models.AssemblyInfo.cs
+C:\aspnetcore\WeatherSolution\Models\obj\Debug\net6.0\Models.csproj.CoreCompileInputs.cache
+C:\aspnetcore\WeatherSolution\Models\obj\Debug\net6.0\Models.dll
+C:\aspnetcore\WeatherSolution\Models\obj\Debug\net6.0\refint\Models.dll
+C:\aspnetcore\WeatherSolution\Models\obj\Debug\net6.0\Models.pdb
+C:\aspnetcore\WeatherSolution\Models\obj\Debug\net6.0\ref\Models.dll
